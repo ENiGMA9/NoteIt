@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Pattaya');
+[data-notify="progressbar"] {
+    margin-bottom: 0px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 5px;
+}
+
+.spacer {
+    margin-left: 40px;
+}
+
+.fontOverride{
+    font-family: 'Raleway', sans-serif !important;
+}
+
+.LOGO{
+    font-family: 'Pattaya', sans-serif;
+    font-size:100px;
+    -webkit-user-select: none; /* Chrome/Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
+
+    /* Rules below not implemented in browsers yet */
+    -o-user-select: none;
+    user-select: none;
+    cursor:default;
+}
+
+

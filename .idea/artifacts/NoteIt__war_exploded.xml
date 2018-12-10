@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="NoteIt-:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoteIt__war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="NoteIt-/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="NoteIt-" />
+          <element id="dir-copy" path="C:/apache-tomcat-8.5.20" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.42-bin" />
+          <element id="library" level="project" name="jstl-1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
